@@ -1,5 +1,7 @@
 ## <div align="center"> Hello There 👋, I'm Alfarizi Dwi Prasetyo</div>
 
+YOOO BALESEN CHATANE REANG LAHH ANGKATEN TELPONEE PENTING PISAN ASLI
+
 <br>
 <div style ="display:flex;" align="center">
   <img src="https://drive.google.com/uc?id=1eRv4eRzYOUebSP7kZUkOTF5RGGR4F68t" style="width:500px"/>
